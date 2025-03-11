@@ -93,5 +93,6 @@ ol {
         background-image: url('AAA.jpg');
         background-repeat: no-repeat;
         background-size: cover;
-        background-size: 100%;
+        background-position: center;
+        background-attachment: fixed;
     }
